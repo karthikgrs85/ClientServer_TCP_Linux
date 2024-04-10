@@ -1,0 +1,1 @@
+Server.c sets up a server on a Linux machine and listens for incoming connections. Client.c is to create a client application that can connect to server, send and receive messages from other clients and server.
